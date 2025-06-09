@@ -14,6 +14,3 @@ I’m a **Biomedical Engineer with a Master’s degree**, specialized in medical
 
 🎨 I also created **My Universe**, a crochet brand that blends storytelling and design with a community of over **40,000 followers**. It reflects my ability to combine data, branding, and creativity in meaningful ways.
 
----
-
-✨ Data + Empathy + Design = My Universe
