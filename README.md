@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👩‍🔬 About Me
 
-<!--
-**DanielaRubianoB/DanielaRubianoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Biomedical Engineer with a Master’s degree**, specialized in medical device design. My academic foundation trained me to interpret complex data and transform it into actionable solutions.
 
-Here are some ideas to get you started:
+📈 I later transitioned into **data analytics**, driven by my passion for insights, decision-making, and process improvement. I worked as a **Data Analyst at Neptune S.A.S**, where I:
+- Translated large datasets into business insights  
+- Created dashboards and KPIs using **Excel, Python, SQL and Tableau**  
+- Supported cross-functional teams with marketing, product, and operations data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Alongside hands-on experience, I earned certifications in:
+- **AWS Certified Cloud Practitioner, GenAI Practitioner & Machine Learning Engineer – Associate**  
+- **Tableau Desktop Specialist**  
+- **Google Data Analytics Professional Certificate**
+
+🎨 I also created **My Universe**, a crochet brand that blends storytelling and design with a community of over **40,000 followers**. It reflects my ability to combine data, branding, and creativity in meaningful ways.
+
+---
+
+✨ Data + Empathy + Design = My Universe
